@@ -1,0 +1,53 @@
+2024-09-04 14:53:52,695 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-04 15:00:15,368 [Worker-6: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GitProject:GitProject:0.0.1-SNAPSHOT @ C:\Users\SUNIL\AAA\GitProject\pom.xml.
+2024-09-04 15:00:19,587 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-04 15:00:19,592 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\AAA\GitProject\src\main\resources
+2024-09-04 15:00:19,615 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-04 15:00:19,617 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\AAA\GitProject\src\test\resources
+2024-09-04 15:00:19,647 [Worker-6: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GitProject/src
+2024-09-04 15:00:19,716 [Worker-6: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /GitProject/src/test/java because it overlaps with /GitProject/src
+2024-09-04 15:00:19,834 [Worker-12: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GitProj:GitProj:0.0.1-SNAPSHOT @ C:\Users\SUNIL\AAA\GitProj\pom.xml.
+2024-09-04 15:00:20,051 [Worker-12: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GitProj/src
+2024-09-04 15:00:20,052 [Worker-12: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /GitProj/src/test/java because it overlaps with /GitProj/src
+2024-09-04 15:00:20,094 [Worker-6: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-09-04 15:00:20,155 [Worker-12: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-09-04 15:00:20,289 [Worker-6: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GitProject:GitProject:0.0.1-SNAPSHOT @ C:\Users\SUNIL\AAA\GitProject\pom.xml.
+2024-09-04 15:00:20,444 [Worker-12: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GitProj:GitProj:0.0.1-SNAPSHOT @ C:\Users\SUNIL\AAA\GitProj\pom.xml.
+2024-09-04 15:00:20,765 [Worker-6: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GitProject/src
+2024-09-04 15:00:20,768 [Worker-12: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GitProj/src
+2024-09-04 15:00:20,769 [Worker-6: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /GitProject/src/test/java because it overlaps with /GitProject/src
+2024-09-04 15:00:20,772 [Worker-12: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /GitProj/src/test/java because it overlaps with /GitProj/src
+2024-09-04 15:00:20,829 [Worker-6: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2024-09-04 15:00:20,844 [Worker-12: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2024-09-04 15:00:20,982 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-04 15:00:20,983 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\AAA\GitProj\src\main\resources
+2024-09-04 15:00:20,985 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-04 15:00:20,988 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\AAA\GitProj\src\test\resources
+2024-09-04 15:00:21,002 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-04 15:00:21,005 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\AAA\GitProject\src\main\resources
+2024-09-04 15:00:21,007 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-04 15:00:21,009 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\AAA\GitProject\src\test\resources
+2024-09-04 15:01:01,381 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-04 15:01:01,383 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\AAA\GitProj\src\main\resources
+2024-09-04 15:01:01,385 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-04 15:01:01,387 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\AAA\GitProj\src\test\resources
+2024-09-04 15:04:03,367 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-04 15:04:03,368 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\AAA\GitProj\src\main\resources
+2024-09-04 15:04:03,370 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-04 15:04:03,372 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\AAA\GitProj\src\test\resources
+2024-09-04 15:04:39,617 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-04 15:04:39,636 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\AAA\GitProj\src\main\resources
+2024-09-04 15:04:39,638 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-04 15:04:39,640 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\AAA\GitProj\src\test\resources
+2024-09-04 15:05:46,505 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-04 15:05:46,507 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\AAA\GitProject\src\main\resources
+2024-09-04 15:05:46,515 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-04 15:05:46,517 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\AAA\GitProject\src\test\resources
+2024-09-04 15:06:12,420 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-04 15:06:12,422 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\AAA\GitProject\src\main\resources
+2024-09-04 15:06:12,424 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-04 15:06:12,426 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\AAA\GitProject\src\test\resources
+2024-09-04 15:06:38,816 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-04 15:06:38,817 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\AAA\GitProject\src\main\resources
+2024-09-04 15:06:38,822 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-09-04 15:06:38,824 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SUNIL\AAA\GitProject\src\test\resources
